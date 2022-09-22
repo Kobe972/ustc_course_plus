@@ -1,0 +1,4 @@
+standard error
+intercept:0.46453
+slope:0.00776
+相关系数：0.9999672537151696

@@ -1,0 +1,987 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.4.1)  28 OCT 2021 08:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/ctexart.cls
+(d:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+
+(d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count167
+\l__pdf_internal_box=\box45
+))
+Document Class: ctexart 2019/05/29 v2.4.16 Chinese adapter for class article (C
+TEX)
+(d:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count168
+\g__xparse_grabber_int=\count169
+\l__xparse_m_args_int=\count170
+\l__xparse_v_nesting_int=\count171
+)
+(d:/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+)
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(d:/texlive/2020/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+(d:/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count172
+\l__ctex_tmp_box=\box46
+\l__ctex_tmp_dim=\dimen134
+\g__ctex_section_depth_int=\count173
+\g__ctex_font_size_int=\count174
+
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(d:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+)
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2019/05/29 v2.4.16 (pdf)LaTeX adapter (CTEX)
+
+(d:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2015/04/18 4.8.4
+
+(d:/texlive/2020/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(d:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(d:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(d:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2015/04/18 4.8.4
+
+(d:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+)
+(d:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box47
+)
+(d:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+))
+(d:/texlive/2020/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count183
+\CJKpunct@cntb=\count184
+\CJKpunct@cntc=\count185
+\CJKpunct@cntd=\count186
+\CJKpunct@cnte=\count187
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+
+(d:/texlive/2020/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa))
+(d:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2015/04/18 3.8.0
+)
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2019/05/29 v2.4.16 Space info for CJKpunct (CTEX)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
+
+(d:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+Package: CJKulem 2015/04/18 4.8.4
+
+(d:/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box48
+\UL@hyphenbox=\box49
+\UL@skip=\skip49
+\UL@hook=\toks17
+\UL@height=\dimen136
+\UL@pe=\count188
+\UL@pixel=\dimen137
+\ULC@box=\box50
+Package: ulem 2019/11/18
+\ULdepth=\dimen138
+)
+\UL@lastkern=\dimen139
+\CJK@skip=\skip50
+)
+\CJK@fntefSkip=\skip51
+\CJK@nest=\count189
+\CJK@fntefDimen=\dimen140
+\CJK@underdotBox=\box51
+\CJK@ULbox=\box52
+\CJK@underanyskip=\dimen141
+)
+\ccwd=\dimen142
+\l__ctex_ccglue_skip=\skip52
+)
+\l__ctex_ziju_dim=\dimen143
+
+(d:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count190
+\l__zhnum_byte_min_int=\count191
+\l__zhnum_byte_max_int=\count192
+
+(d:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip53
+
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.d
+ef
+File: ctex-scheme-chinese-article.def 2019/05/29 v2.4.16 Chinese scheme for art
+icle (CTEX)
+ (d:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2019/05/29 v2.4.16 Caption with encoding UTF8 (CTEX)
+))
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2019/05/29 v2.4.16 c5size option (CTEX)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2019/05/29 v2.4.16 Windows fonts definition (CTE
+X)
+
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+File: ctex-fontset-windowsnew.def 2019/05/29 v2.4.16 Windows fonts definition f
+or Vista or later version (CTEX)
+
+(d:/texlive/2020/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+File: zhwindowsfonts.tex 2019/05/29 v2.4.16 Windows font map loader for pdfTeX 
+and DVIPDFMx (CTEX)
+{d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicod
+e.sfd}))))
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2019/05/29 v2.4.16 Configuration file (CTEX)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(d:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count193
+\calc@Bcount=\count194
+\calc@Adimen=\dimen144
+\calc@Bdimen=\dimen145
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count195
+\calc@Cskip=\skip56
+)
+(d:/texlive/2020/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen146
+))
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen147
+)
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen148
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks20
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks21
+\eqnshift@=\dimen149
+\alignsep@=\dimen150
+\tagshift@=\dimen151
+\tagwidth@=\dimen152
+\totwidth@=\dimen153
+\lineht@=\dimen154
+\@envbody=\toks22
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count274
+\l_MT_multwidth_dim=\dimen155
+\origjot=\skip60
+\l_MT_shortvdotswithinadjustabove_dim=\dimen156
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen157
+\l_MT_above_intertext_sep=\dimen158
+\l_MT_below_intertext_sep=\dimen159
+\l_MT_above_shortintertext_sep=\dimen160
+\l_MT_below_shortintertext_sep=\dimen161
+\xmathstrut@box=\box55
+\xmathstrut@dim=\dimen162
+)
+(d:/texlive/2020/texmf-dist/tex/latex/wallpaper/wallpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+
+(d:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(d:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+(d:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+))
+(d:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+)
+\wpXoffset=\skip61
+\wpYoffset=\skip62
+\tileXoffset=\skip63
+\tileYoffset=\skip64
+\tilewidth=\skip65
+\tileheight=\skip66
+\tileX=\skip67
+\tileY=\skip68
+)
+(d:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count275
+\lst@gtempboxa=\box56
+\lst@token=\toks24
+\lst@length=\count276
+\lst@currlwidth=\dimen165
+\lst@column=\count277
+\lst@pos=\count278
+\lst@lostspace=\dimen166
+\lst@width=\dimen167
+\lst@newlines=\count279
+\lst@lineno=\count280
+\lst@maxwidth=\dimen168
+
+(d:/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count281
+\lst@skipnumbers=\count282
+\lst@framebox=\box57
+)
+(d:/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(d:/texlive/2020/texmf-dist/tex/latex/base/t1enc.sty
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(d:/texlive/2020/texmf-dist/tex/latex/pagecolor/pagecolor.sty
+Package: pagecolor 2017/05/29 v1.0i Provides thepagecolor (HMM)
+
+(d:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(d:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(d:/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
+(d:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(d:/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen169
+\Gm@wd@mp=\dimen170
+\Gm@odd@mp=\dimen171
+\Gm@even@mp=\dimen172
+\Gm@layoutwidth=\dimen173
+\Gm@layoutheight=\dimen174
+\Gm@layouthoffset=\dimen175
+\Gm@layoutvoffset=\dimen176
+\Gm@dimlist=\toks25
+)
+(d:/texlive/2020/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
+
+(d:/texlive/2020/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2019/08/20 v0.3c Improved picture commands (HjG,RN,JT)
+
+(d:/texlive/2020/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+
+(d:/texlive/2020/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks26
+\@arclen=\dimen177
+\@arcrad=\dimen178
+\@tempdimd=\dimen179
+)
+(d:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen180
+\ar@mcellbox=\box58
+\extrarowheight=\dimen181
+\NC@list=\toks27
+\extratabsurround=\skip69
+\backup@length=\skip70
+\ar@cellbox=\box59
+)
+\diagbox@boxa=\box60
+\diagbox@boxb=\box61
+\diagbox@boxm=\box62
+\diagbox@wd=\dimen182
+\diagbox@ht=\dimen183
+\diagbox@insepl=\dimen184
+\diagbox@insepr=\dimen185
+\diagbox@outsepl=\dimen186
+\diagbox@outsepr=\dimen187
+)
+(d:/texlive/2020/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen188
+\WF@size=\dimen189
+\c@WF@wrappedlines=\count286
+\WF@box=\box63
+\WF@everypar=\toks28
+Package: wrapfig 2003/01/31  v 3.6
+)
+(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(d:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+)
+(d:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(d:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 21.
+\AtBeginShipoutBox=\box64
+
+(d:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count287
+\scratchdimen=\dimen190
+\scratchbox=\box65
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen191
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks30
+) (d:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(d:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count293
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(90.47955pt, 433.33589pt, 90.47955pt)
+* v-part:(T,H,B)=(72.2698pt, 650.43037pt, 72.2698pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.33589pt
+* \textheight=650.43037pt
+* \oddsidemargin=18.20956pt
+* \evensidemargin=18.20956pt
+* \topmargin=-37.00018pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { section = { format={\Large \bfseries } } } is
+(ctex)                set.
+
+LaTeX Font Info:    Trying to load font information for C70+song on input line 
+24.
+(d:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/c70song.fd
+File: c70song.fd 2015/04/18 4.8.4
+)
+Package CJKpunct Info: punctuation spaces for family 'song' do not exist. Use f
+amily 'def' instead. on input line 25.
+<school.jpg, id=17, 180.018pt x 180.018pt>
+File: school.jpg Graphic file (type jpg)
+<use school.jpg>
+Package pdftex.def Info: school.jpg  used on input line 29.
+(pdftex.def)             Requested size: 180.01755pt x 180.01755pt.
+
+(d:/texlive/2020/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+File: zhwindowsfonts.tex 2019/05/29 v2.4.16 Windows font map loader for pdfTeX 
+and DVIPDFMx (CTEX)
+) [1
+
+ <./school.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 43--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--67
+
+ []
+
+[2]
+<step3.PNG, id=115, 766.66425pt x 531.1845pt>
+File: step3.PNG Graphic file (type png)
+<use step3.PNG>
+Package pdftex.def Info: step3.PNG  used on input line 82.
+(pdftex.def)             Requested size: 460.0021pt x 318.71315pt.
+
+Overfull \hbox (26.66621pt too wide) in paragraph at lines 82--83
+ [][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 83
+.
+(d:/texlive/2020/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+File: c70rm.fd 2019/05/29 v2.4.16 Chinese font definition (CTEX)
+)
+<tutor.PNG, id=117, 770.88pt x 534.798pt>
+File: tutor.PNG Graphic file (type png)
+<use tutor.PNG>
+Package pdftex.def Info: tutor.PNG  used on input line 87.
+(pdftex.def)             Requested size: 462.53157pt x 320.88127pt.
+
+Overfull \hbox (29.19568pt too wide) in paragraph at lines 87--88
+ [][] 
+ []
+
+<S4_1.PNG, id=118, 264.38776pt x 133.09724pt>
+File: S4_1.PNG Graphic file (type png)
+<use S4_1.PNG>
+Package pdftex.def Info: S4_1.PNG  used on input line 96.
+(pdftex.def)             Requested size: 158.63387pt x 79.85895pt.
+<S4_2.PNG, id=119, 104.18925pt x 128.27925pt>
+File: S4_2.PNG Graphic file (type png)
+<use S4_2.PNG>
+Package pdftex.def Info: S4_2.PNG  used on input line 101.
+(pdftex.def)             Requested size: 62.51402pt x 76.96814pt.
+<S4_3.PNG, id=120, 513.117pt x 178.266pt>
+File: S4_3.PNG Graphic file (type png)
+<use S4_3.PNG>
+Package pdftex.def Info: S4_3.PNG  used on input line 106.
+(pdftex.def)             Requested size: 307.87257pt x 106.9604pt.
+<p1_s1.PNG, id=123, 172.84575pt x 413.1435pt>
+File: p1_s1.PNG Graphic file (type png)
+<use p1_s1.PNG>
+Package pdftex.def Info: p1_s1.PNG  used on input line 118.
+(pdftex.def)             Requested size: 103.70824pt x 247.888pt.
+<p1_s2.PNG, id=124, 160.1985pt x 402.303pt>
+File: p1_s2.PNG Graphic file (type png)
+<use p1_s2.PNG>
+Package pdftex.def Info: p1_s2.PNG  used on input line 125.
+(pdftex.def)             Requested size: 96.11983pt x 241.38365pt.
+<p1_s3.PNG, id=125, 437.83575pt x 404.10976pt>
+File: p1_s3.PNG Graphic file (type png)
+<use p1_s3.PNG>
+Package pdftex.def Info: p1_s3.PNG  used on input line 132.
+(pdftex.def)             Requested size: 262.70348pt x 242.46771pt.
+<name_mat.PNG, id=126, 209.583pt x 173.448pt>
+File: name_mat.PNG Graphic file (type png)
+<use name_mat.PNG>
+Package pdftex.def Info: name_mat.PNG  used on input line 139.
+(pdftex.def)             Requested size: 125.75076pt x 104.0696pt.
+<name_mat_bin.PNG, id=128, 119.84775pt x 264.99pt>
+File: name_mat_bin.PNG Graphic file (type png)
+<use name_mat_bin.PNG>
+Package pdftex.def Info: name_mat_bin.PNG  used on input line 146.
+(pdftex.def)             Requested size: 71.9092pt x 158.99522pt.
+(d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(d:/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 79--154
+
+ []
+
+[3]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./step3.PNG>]
+
+LaTeX Warning: Text page 5 contains only floats.
+
+[5 <./tutor.PNG> <./S4_1.PNG> <./S4_2.PNG>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./S4_3.PNG> <./p1_s1.PNG>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./p1_s2.PNG> <./p1_s3.PNG>] [8 <./name_mat.PNG> <./name_mat_bin.PNG>]
+(d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+<p1_s4.PNG, id=195, 440.24475pt x 403.5075pt>
+File: p1_s4.PNG Graphic file (type png)
+<use p1_s4.PNG>
+Package pdftex.def Info: p1_s4.PNG  used on input line 186.
+(pdftex.def)             Requested size: 264.1489pt x 242.10637pt.
+<p1.PNG, id=196, 450.483pt x 416.15475pt>
+File: p1.PNG Graphic file (type png)
+<use p1.PNG>
+Package pdftex.def Info: p1.PNG  used on input line 193.
+(pdftex.def)             Requested size: 270.29187pt x 249.69478pt.
+<p2_s1.PNG, id=197, 77.088pt x 151.16475pt>
+File: p2_s1.PNG Graphic file (type png)
+<use p2_s1.PNG>
+Package pdftex.def Info: p2_s1.PNG  used on input line 202.
+(pdftex.def)             Requested size: 46.25314pt x 90.69954pt.
+<p2_s2.PNG, id=198, 552.8655pt x 158.39175pt>
+File: p2_s2.PNG Graphic file (type png)
+<use p2_s2.PNG>
+Package pdftex.def Info: p2_s2.PNG  used on input line 209.
+(pdftex.def)             Requested size: 331.72185pt x 95.03577pt.
+<p2_s3.PNG, id=199, 553.46774pt x 222.23026pt>
+File: p2_s3.PNG Graphic file (type png)
+<use p2_s3.PNG>
+Package pdftex.def Info: p2_s3.PNG  used on input line 216.
+(pdftex.def)             Requested size: 332.0832pt x 133.33917pt.
+<p2.PNG, id=201, 550.4565pt x 224.037pt>
+File: p2.PNG Graphic file (type png)
+<use p2.PNG>
+Package pdftex.def Info: p2.PNG  used on input line 223.
+(pdftex.def)             Requested size: 330.27644pt x 134.42322pt.
+<p3_s1.PNG, id=204, 249.3315pt x 214.401pt>
+File: p3_s1.PNG Graphic file (type png)
+<use p3_s1.PNG>
+Package pdftex.def Info: p3_s1.PNG  used on input line 233.
+(pdftex.def)             Requested size: 149.60004pt x 128.64159pt.
+<p3_s2.PNG, id=205, 243.91125pt x 211.992pt>
+File: p3_s2.PNG Graphic file (type png)
+<use p3_s2.PNG>
+Package pdftex.def Info: p3_s2.PNG  used on input line 240.
+(pdftex.def)             Requested size: 146.34787pt x 127.19617pt.
+<p3.PNG, id=206, 498.06075pt x 417.9615pt>
+File: p3.PNG Graphic file (type png)
+<use p3.PNG>
+Package pdftex.def Info: p3.PNG  used on input line 247.
+(pdftex.def)             Requested size: 298.83875pt x 250.77882pt.
+<p4_s1.PNG, id=207, 85.5195pt x 73.4745pt>
+File: p4_s1.PNG Graphic file (type png)
+<use p4_s1.PNG>
+Package pdftex.def Info: p4_s1.PNG  used on input line 256.
+(pdftex.def)             Requested size: 51.31207pt x 44.08502pt.
+<p4_s2.PNG, id=208, 244.5135pt x 180.07275pt>
+File: p4_s2.PNG Graphic file (type png)
+<use p4_s2.PNG>
+Package pdftex.def Info: p4_s2.PNG  used on input line 263.
+(pdftex.def)             Requested size: 146.70923pt x 108.04448pt.
+<p4_s3.PNG, id=209, 339.06676pt x 366.77025pt>
+File: p4_s3.PNG Graphic file (type png)
+<use p4_s3.PNG>
+Package pdftex.def Info: p4_s3.PNG  used on input line 270.
+(pdftex.def)             Requested size: 203.44162pt x 220.06384pt.
+<p4_files.PNG, id=210, 89.133pt x 190.311pt>
+File: p4_files.PNG Graphic file (type png)
+<use p4_files.PNG>
+Package pdftex.def Info: p4_files.PNG  used on input line 277.
+(pdftex.def)             Requested size: 53.4802pt x 114.18747pt.
+<p4.PNG, id=211, 186.09525pt x 165.61874pt>
+File: p4.PNG Graphic file (type png)
+<use p4.PNG>
+Package pdftex.def Info: p4.PNG  used on input line 284.
+(pdftex.def)             Requested size: 111.65799pt x 99.37201pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9] [10 <./p1_s4.PNG> <./p1.PNG>] [11 <./p2_s1.PNG> <./p2_s2.PNG> <./p2_s3.PNG>
+]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./p2.PNG> <./p3_s1.PNG>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <./p3_s2.PNG> <./p3.PNG> <./p4_s1.PNG>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14 <./p4_s2.PNG> <./p4_s3.PNG>] [15 <./p4_files.PNG> <./p4.PNG>] (./report.aux
+) ) 
+Here is how much of TeX's memory you used:
+ 12363 strings out of 480608
+ 202053 string characters out of 5907537
+ 635923 words of memory out of 5000000
+ 27730 multiletter control sequences out of 15000+600000
+ 574654 words of font info for 166 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,8n,62p,506b,1756s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
+simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
+s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
+:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
+n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
+ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>{d:/texlive/2020/texmf-dist/fonts/en
+c/dvips/cm-super/cm-super-t1.enc}<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
+/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
+ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
+c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
+un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
+nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
+ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
+c><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
+imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
+/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
+/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
+ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/W
+indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
+tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
+simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
+s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
+:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
+n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
+ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
+dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
+><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
+msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/
+Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
+Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
+ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
+/simsun.ttc><c:/Windows/Fonts/simsun.ttc><d:/texlive/2020/texmf-dist/fonts/type
+1/public/cm-super/sfbx1200.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/c
+m-super/sfrm0500.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sf
+rm1000.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
+><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on report.pdf (15 pages, 1378944 bytes).
+PDF statistics:
+ 577 PDF objects out of 1000 (max. 8388607)
+ 343 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 374 words of extra memory for PDF output out of 10000 (max. 10000000)
+

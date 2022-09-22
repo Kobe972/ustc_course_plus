@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "离散事件模拟", "离散事件模拟.vcxproj", "{A562A99F-3F6F-4065-8816-E655B5C5E846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A562A99F-3F6F-4065-8816-E655B5C5E846}.Debug|x64.ActiveCfg = Debug|x64
+		{A562A99F-3F6F-4065-8816-E655B5C5E846}.Debug|x64.Build.0 = Debug|x64
+		{A562A99F-3F6F-4065-8816-E655B5C5E846}.Debug|x86.ActiveCfg = Debug|Win32
+		{A562A99F-3F6F-4065-8816-E655B5C5E846}.Debug|x86.Build.0 = Debug|Win32
+		{A562A99F-3F6F-4065-8816-E655B5C5E846}.Release|x64.ActiveCfg = Release|x64
+		{A562A99F-3F6F-4065-8816-E655B5C5E846}.Release|x64.Build.0 = Release|x64
+		{A562A99F-3F6F-4065-8816-E655B5C5E846}.Release|x86.ActiveCfg = Release|Win32
+		{A562A99F-3F6F-4065-8816-E655B5C5E846}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CA2F67-4D0A-427C-A7E1-7923601A9F8E}
+	EndGlobalSection
+EndGlobal

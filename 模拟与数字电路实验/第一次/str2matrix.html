@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+	#wrap{
+		position: relative;
+		height: 200px;
+		width: 200px;
+	}
+	#wrap span{
+		position: absolute;
+		width: 7px;
+		height: 7px;
+		border: 1px solid #000;
+	}
+</style>
+<script>
+	function draw(){
+		var txt = text.value;
+		if(txt){
+			lattice(txt);
+		}
+	}
+	function lattice(txt){
+		<!-- 创建画布-->
+		var canvas = document.createElement('canvas'); 
+		var ctx = canvas.getContext('2d'); 
+		<!--画布宽cols*高rows-->
+		var cols = 16;
+		var	rows = 16;
+		cols = txt.length * 16
+		canvas.width = cols;
+		canvas.height = rows;
+		<!--在给定区域（wrap）内以给定坐标（0，0）为锚点清空一个cols*rows的矩形-->
+		ctx.clearRect(0,0,cols,rows);
+		<!--在画布上写一段16像素的文本，使用的字体是 "SimSun"-->
+		ctx.font = "16px SimSun";
+		<!--定义用豆沙绿填充文本-->
+		ctx.fillStyle = "#C7EDCC";
+		<!--fillText(文本text,坐标x（相对画布）,坐标y（相对画布）, maxWidth(可选,最大文本宽度))-->
+	    ctx.fillText(txt, 0, 14);
+		<!--getImageData(x,y,width,height)复制画布上指定矩形的像素数据 -->
+		var data = ctx.getImageData(0, 0, cols, rows)
+		var len = data.data.length;
+		var res = '';
+		var strHexadecimal = '';
+		var strBinary = '';
+		for(var i = 1; i <= rows; i++){
+			for(var j = 1; j <= cols; j++){
+				var pos = (( i-1 )*cols+( j ))*4 -1;
+				if(data.data[pos] > 0){
+					res += `<span class="black" style="left: ${j*10}px;top: ${i*10+20}px"></span>`
+				}
+			}
+		}
+		strHexadecimal += '<br><br><br><br><br><br><br><br>16进制:<br>';
+		for(var i = 1; i <= rows; i++){
+			var strTmp = '';
+			for(var j = 1; j <= cols; j++){
+				var pos = (( i-1 )*cols+( j ))*4 -1;
+				if(data.data[pos] > 0){
+					strBinary += '1';
+					strTmp += '1';
+				}
+				else{
+					strBinary += '0';
+					strTmp += '0';
+				}
+			}
+			strBinary += '<br>';
+			var Binary4bit=strTmp.substr(0,16);
+			for(var k=16;Binary4bit!='';k+=16){
+				var temp=parseInt(Binary4bit,2).toString(16);
+				while(temp.length<=3)temp='0'+temp;
+				strHexadecimal+=temp;
+				Binary4bit=strTmp.substr(k,16);
+			}
+			strHexadecimal += '<br>';
+		}
+		wrap.innerHTML ='像素点:<br><br>'+res+strHexadecimal+'2进制:<br>'+strBinary;
+	}
+</script>
+</head>
+<body>
+<div>
+	<input type="text" id="text" value="名">
+	<button onclick="draw()" id="btn">转换(16*16)</button>
+</div>
+<div id="wrap">
+	
+</div>
+</body>
+</html>
